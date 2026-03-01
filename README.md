@@ -236,7 +236,7 @@ SafeRide AI App represents the next generation of vehicle safety technology, bri
 ### **Installation Steps**
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sarikamunirajumca/saferide-ai-app.git
+   git clone https://github.com/sahanamca/saferide-ai-app.git
    cd saferide_ai_app
    ```
 
@@ -415,9 +415,9 @@ await streamingService.startServer(port: 8080);
 ## 📞 **Support & Contributing**
 
 ### **Bug Reports & Feature Requests**
-- GitHub Issues: [Report bugs or request features](https://github.com/sarikamunirajumca/saferide-ai-app/issues)
-- Email Support: sarikamunirajumca@example.com
-
+- GitHub Issues: [Report bugs or request features](https://github.com/sahanamca/saferide-ai-app/issues)
+- Email Support: sahana.mca2024@adhiyamaan.in
+  
 ### **Contributing Guidelines**
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -428,7 +428,7 @@ await streamingService.startServer(port: 8080);
 ### **Development Resources**
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [Google ML Kit Documentation](https://developers.google.com/ml-kit)
-- [Car AI Python System](https://github.com/sarikamunirajumca/car-ai) - Backend algorithms
+- [Car AI Python System](https://github.com/sahanamca/car-ai) - Backend algorithms
 
 ## 📄 **License**
 
